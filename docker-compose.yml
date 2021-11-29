@@ -5,4 +5,4 @@ services:
     ports:
       - "8080:80"
     volumes:
-      - ./HOI/:/usr/local/apache2/htdocs/
+      - ./python_articals/:/usr/local/apache2/htdocs/
